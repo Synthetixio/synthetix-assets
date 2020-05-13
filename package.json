@@ -1,0 +1,14 @@
+{
+  "name": "synthetix-assets",
+  "version": "1.0.0",
+  "description": "Synthetix assets",
+  "author": "Synthetix",
+  "license": "MIT",
+  "scripts": {
+    "clean": "svgo --multipass --disable=removeViewBox $(globby {synths,crypto}/**/*.svg)"
+  },
+  "devDependencies": {
+    "globby-cli": "^1.0.1",
+    "svgo": "^1.3.2"
+  }
+}
