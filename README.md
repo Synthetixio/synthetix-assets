@@ -3,7 +3,7 @@
 ## Install
 
 ```
-$ npm install synthetix-assets
+$ npm install @synthetixio/assets
 ```
 
 ## Use
