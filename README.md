@@ -10,5 +10,5 @@ $ npm install @synthetixio/assets
 
 ```
 // import sBTC synth
-import sBTC from 'synthetix-assets/synths/sBTC.svg';
+import sBTC from '@synthetixio/assets/synths/sBTC.svg';
 ```
