@@ -5,7 +5,7 @@
   "author": "Synthetix",
   "license": "MIT",
   "scripts": {
-    "clean": "svgo --multipass --disable=removeViewBox $(globby {synths,crypto}/**/*.svg)"
+    "clean": "svgo --multipass --disable=removeViewBox $(globby **/*.svg)"
   },
   "devDependencies": {
     "globby-cli": "^1.0.1",
