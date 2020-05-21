@@ -1,5 +1,7 @@
 # Synthetix Assets
 
+A repository for reusable assets from the synthetix ecosystem.
+
 ## Install
 
 ```
