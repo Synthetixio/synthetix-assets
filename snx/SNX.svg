@@ -1,6 +1,6 @@
 <svg width="480" height="480" viewBox="0 0 480 480" fill="none" xmlns="http://www.w3.org/2000/svg">
 <circle cx="240" cy="240" r="240" fill="url(#paint0_linear)"/>
-<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="480" height="480">
+<mask id="mask0" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="480" height="480">
 <circle cx="240" cy="240" r="240" fill="url(#paint1_linear)"/>
 </mask>
 <g mask="url(#mask0)">
