@@ -10,6 +10,7 @@ jobs:
     docker:
       - image: cimg/node:<< pipeline.parameters.node-version >>
     steps:
+      - checkout
       - run: yarn install --immutable
       - run: yarn npm audit --recursive --severity critical
       - run: yarn dedupe --check
