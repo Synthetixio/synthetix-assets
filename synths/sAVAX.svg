@@ -1,1 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" fill="none"><g clip-path="url(#a)"><mask id="c" width="42" height="42" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha"><circle cx="21" cy="21" r="21" fill="url(#b)"/></mask><g mask="url(#c)"><circle cx="21" cy="21" r="21" fill="#34EDB3"/><circle cx="21" cy="21" r="18.2" fill="#fff"/></g><circle cx="21" cy="21" r="16.1" fill="#06061B"/><g clip-path="url(#d)"><path fill="#fff" d="M30.93 10.424H11.049v18.07h19.88v-18.07z"/><path fill="#E84142" fill-rule="evenodd" d="M37.09 21c0 8.88-7.204 16.079-16.09 16.079S4.91 29.88 4.91 21 12.115 4.921 21 4.921 37.09 12.12 37.09 21zm-20.65 6.398h-3.122c-.656 0-.98 0-1.178-.126a.793.793 0 01-.36-.62c-.011-.233.151-.518.475-1.086l7.71-13.58c.328-.578.494-.866.703-.973a.796.796 0 01.72 0c.21.107.375.396.703.972l1.585 2.765.008.014c.355.619.534.933.613 1.262.087.36.087.739 0 1.098-.08.332-.257.648-.617 1.276l-4.05 7.154-.01.018c-.357.624-.537.94-.788 1.179-.273.26-.6.45-.96.557-.328.09-.696.09-1.431.09zm7.886 0H28.8c.66 0 .992 0 1.19-.13a.79.79 0 00.36-.624c.011-.225-.147-.499-.458-1.034l-.032-.056-2.241-3.831-.026-.044c-.315-.532-.474-.8-.678-.904a.787.787 0 00-.715 0c-.206.106-.372.387-.7.952l-2.233 3.83-.008.014c-.327.564-.49.846-.478 1.077a.8.8 0 00.36.624c.193.126.525.126 1.185.126z" clip-rule="evenodd"/></g></g><defs><clipPath id="a"><path fill="#fff" d="M0 0h42v42H0z"/></clipPath><clipPath id="d"><path fill="#fff" d="M4.9 4.9h32.2v32.2H4.9z"/></clipPath><linearGradient id="b" x1="21" x2="21" y1="0" y2="61.409" gradientUnits="userSpaceOnUse"><stop stop-color="#08021E"/><stop offset="1" stop-color="#1F0777"/></linearGradient></defs></svg>
+<svg width="42" height="42" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#a)">
+    <mask id="c" width="42" height="42" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha">
+      <circle cx="21" cy="21" r="21" fill="url(#b)"/>
+    </mask>
+    <g mask="url(#c)">
+      <circle cx="21" cy="21" r="21" fill="#34EDB3"/>
+      <circle cx="21" cy="21" r="18.2" fill="#fff"/>
+    </g>
+    <circle cx="21" cy="21" r="16.1" fill="#06061B"/>
+    <g clip-path="url(#d)">
+      <path fill="#fff" d="M30.93 10.424H11.049v18.07h19.88v-18.07z"/>
+      <path fill="#E84142" fill-rule="evenodd" d="M37.09 21c0 8.88-7.204 16.079-16.09 16.079S4.91 29.88 4.91 21 12.115 4.921 21 4.921 37.09 12.12 37.09 21m-20.65 6.398h-3.122c-.656 0-.98 0-1.178-.126a.8.8 0 0 1-.36-.62c-.011-.233.151-.518.475-1.086l7.71-13.58c.328-.578.494-.866.703-.973a.8.8 0 0 1 .72 0c.21.107.375.396.703.972l1.585 2.765.008.014c.355.619.534.933.613 1.262.087.36.087.739 0 1.098-.08.332-.257.648-.617 1.276l-4.05 7.154-.01.018c-.357.624-.537.94-.788 1.179-.273.26-.6.45-.96.557-.328.09-.696.09-1.431.09zm7.886 0H28.8c.66 0 .992 0 1.19-.13a.79.79 0 0 0 .36-.624c.011-.225-.147-.499-.458-1.034l-.032-.056-2.241-3.831-.026-.044c-.315-.532-.474-.8-.678-.904a.79.79 0 0 0-.715 0c-.206.106-.372.387-.7.952l-2.233 3.83-.008.014c-.327.564-.49.846-.478 1.077a.8.8 0 0 0 .36.624c.193.126.525.126 1.185.126" clip-rule="evenodd"/>
+    </g>
+  </g>
+  <defs>
+    <clipPath id="a">
+      <path fill="#fff" d="M0 0h42v42H0z"/>
+    </clipPath>
+    <clipPath id="d">
+      <path fill="#fff" d="M4.9 4.9h32.2v32.2H4.9z"/>
+    </clipPath>
+    <linearGradient id="b" x1="21" x2="21" y1="0" y2="61.409" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08021E"/>
+      <stop offset="1" stop-color="#1F0777"/>
+    </linearGradient>
+  </defs>
+</svg>
