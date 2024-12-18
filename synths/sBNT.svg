@@ -1,1 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" fill="none"><g clip-path="url(#a)"><mask id="c" width="42" height="42" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha"><circle cx="21" cy="21" r="21" fill="url(#b)"/></mask><g mask="url(#c)"><circle cx="21" cy="21" r="21" fill="#34EDB3"/><circle cx="21" cy="21" r="18.2" fill="#fff"/></g><circle cx="21" cy="21" r="16.1" fill="#06061B"/><path fill="#000" d="M21 37.1c8.892 0 16.1-7.208 16.1-16.1 0-8.892-7.208-16.1-16.1-16.1-8.892 0-16.1 7.208-16.1 16.1 0 8.892 7.208 16.1 16.1 16.1z"/><path fill="#fff" d="M20.639 11.033l-4.547 2.664 4.547 2.664 4.631-2.664-4.631-2.664zm.747 14.223v5.328l6.176-3.523v-5.33l-6.176 3.525zm4.632-9.884v5.33l-4.633 2.664v-5.33l4.633-2.664zm-11.151 5.33l4.633 2.664v-5.33l-4.633-2.664v5.33zm0 7.218l4.633 2.664v-5.328l-4.633-2.664v5.328z"/></g><defs><linearGradient id="b" x1="21" x2="21" y1="0" y2="61.409" gradientUnits="userSpaceOnUse"><stop stop-color="#08021E"/><stop offset="1" stop-color="#1F0777"/></linearGradient><clipPath id="a"><path fill="#fff" d="M0 0h42v42H0z"/></clipPath></defs></svg>
+<svg width="42" height="42" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#a)">
+    <mask id="c" width="42" height="42" x="0" y="0" maskUnits="userSpaceOnUse" style="mask-type:alpha">
+      <circle cx="21" cy="21" r="21" fill="url(#b)"/>
+    </mask>
+    <g mask="url(#c)">
+      <circle cx="21" cy="21" r="21" fill="#34EDB3"/>
+      <circle cx="21" cy="21" r="18.2" fill="#fff"/>
+    </g>
+    <circle cx="21" cy="21" r="16.1" fill="#06061B"/>
+    <path fill="#000" d="M21 37.1c8.892 0 16.1-7.208 16.1-16.1S29.892 4.9 21 4.9 4.9 12.108 4.9 21 12.108 37.1 21 37.1"/>
+    <path fill="#fff" d="m20.639 11.033-4.547 2.664 4.547 2.664 4.631-2.664zm.747 14.223v5.328l6.176-3.523v-5.33zm4.632-9.884v5.33l-4.633 2.664v-5.33zm-11.151 5.33 4.633 2.664v-5.33l-4.633-2.664zm0 7.218 4.633 2.664v-5.328l-4.633-2.664z"/>
+  </g>
+  <defs>
+    <linearGradient id="b" x1="21" x2="21" y1="0" y2="61.409" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08021E"/>
+      <stop offset="1" stop-color="#1F0777"/>
+    </linearGradient>
+    <clipPath id="a">
+      <path fill="#fff" d="M0 0h42v42H0z"/>
+    </clipPath>
+  </defs>
+</svg>

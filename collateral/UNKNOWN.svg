@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" fill="none"><circle cx="21" cy="21" r="21" fill="url(#a)"/><defs><linearGradient id="a" x1="1.145" x2="50.119" y1="42" y2="27.586" gradientUnits="userSpaceOnUse"><stop stop-color="#34EDB3"/><stop offset="1" stop-color="#00D1FF"/></linearGradient></defs></svg>
+<svg width="42" height="42" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="21" cy="21" r="21" fill="url(#a)"/>
+  <defs>
+    <linearGradient id="a" x1="1.145" x2="50.119" y1="42" y2="27.586" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#34EDB3"/>
+      <stop offset="1" stop-color="#00D1FF"/>
+    </linearGradient>
+  </defs>
+</svg>
