@@ -1,0 +1,33 @@
+<svg width="42" height="42" fill="none" viewBox="0 0 42 42" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#a)">
+    <mask id="b" width="44" height="44" x="-1" y="-1" maskUnits="userSpaceOnUse" style="mask-type:luminance">
+      <path fill="#fff" stroke="#fff" stroke-width="1.75" d="M21 .875C32.115.875 41.125 9.885 41.125 21S32.115 41.125 21 41.125.875 32.115.875 21 9.885.875 21 .875Z"/>
+    </mask>
+    <g mask="url(#b)">
+      <g filter="url(#c)">
+        <path fill="url(#d)" d="M42 21C42 9.402 32.598 0 21 0S0 9.402 0 21s9.402 21 21 21 21-9.402 21-21"/>
+      </g>
+      <path fill="#fff" d="m20.188 28.274-5.34 5.03V13.999l5.34-5.303zm6.964.012-5.34 5.019v-7.53l5.34-5.288z"/>
+    </g>
+  </g>
+  <defs>
+    <linearGradient id="d" x1="42" x2="0" y1="0" y2="42" gradientUnits="userSpaceOnUse">
+      <stop offset=".3" stop-color="#121218"/>
+      <stop offset=".495" stop-color="#121218"/>
+      <stop offset=".7" stop-color="#121218"/>
+    </linearGradient>
+    <clipPath id="a">
+      <path fill="#fff" d="M0 0h42v42H0z"/>
+    </clipPath>
+    <filter id="c" width="42" height="42" x="0" y="0" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feColorMatrix in="SourceAlpha" result="hardAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+      <feOffset/>
+      <feGaussianBlur stdDeviation="7"/>
+      <feComposite in2="hardAlpha" k2="-1" k3="1" operator="arithmetic"/>
+      <feColorMatrix values="0 0 0 0 0.0235294 0 0 0 0 0.0235294 0 0 0 0 0.0470588 0 0 0 1 0"/>
+      <feBlend in2="shape" result="effect1_innerShadow_116_183"/>
+    </filter>
+  </defs>
+</svg>
